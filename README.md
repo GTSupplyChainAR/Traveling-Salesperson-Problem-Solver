@@ -1,6 +1,6 @@
 # Traveling Salesman Problem - Solutions in Python
 
-https://api.travis-ci.org/p13i/Traveling-Salesman-Problem.svg?branch=master
+![Travis CI Badge](https://api.travis-ci.org/p13i/Traveling-Salesman-Problem.svg?branch=master)
 
 ## Installation
 
